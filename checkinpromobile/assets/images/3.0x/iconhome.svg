@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="39px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>iconhome</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" stroke="#016DDA">
+            <path
+                d="M17,38 L20,38 L20,35 L17,35 L17,38 Z M33,38 L36,38 L36,35 L33,35 L33,38 Z M6,43 L25,43 L25,8 L6,8 L6,43 Z M25,43 L44,43 L44,8 L25,8 L25,43 Z M12,14.5 L20,14.5 L12,14.5 Z M30,14.5 L38,14.5 L30,14.5 Z M12,20.5 L20,20.5 L12,20.5 Z M30,20.5 L38,20.5 L30,20.5 Z M12,28.5 L20,28.5 L12,28.5 Z M30,28.5 L38,28.5 L30,28.5 Z"
+                id="Servers"></path>
+        </g>
+    </g>
+</svg>

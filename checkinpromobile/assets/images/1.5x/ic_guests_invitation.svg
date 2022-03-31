@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-3" stroke="#016DDA">
+            <circle id="Oval" cx="13" cy="9" r="4"></circle>
+            <path d="M7,22 L7,19 C7,15.6862915 9.6862915,13 13,13 C16.3137085,13 19,15.6862915 19,19 L19,22" id="Path"></path>
+        </g>
+    </g>
+</svg>

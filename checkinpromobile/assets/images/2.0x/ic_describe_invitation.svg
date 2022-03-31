@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-9</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-9" stroke="#016DDA">
+            <path d="M8,4 L19,4 C21.209139,4 23,5.790861 23,8 L23,13.8181818 C23,16.0273208 21.209139,17.8181818 19,17.8181818 L9.18181818,17.8181818 L9.18181818,17.8181818 L4,22.1363636 L4,8 C4,5.790861 5.790861,4 8,4 Z M7.45454545,9.18181818 L18.6818182,9.18181818 M7.45454545,12.6363636 L15.2272727,12.6363636" id="Chat" transform="translate(13.500000, 13.068182) scale(-1, 1) translate(-13.500000, -13.068182) "></path>
+        </g>
+    </g>
+</svg>

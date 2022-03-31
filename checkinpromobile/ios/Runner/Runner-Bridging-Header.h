@@ -1,0 +1,9 @@
+#import "GeneratedPluginRegistrant.h"
+#import <BRLMPrinterKit/BRLMPrinterKit.h>
+#import <BRLMPrinterKit/BRPtouchBluetoothManager.h>
+#import <BRLMPrinterKit/BRPtouchDeviceInfo.h>
+#import <BRLMPrinterKit/BRPtouchNetworkManager.h>
+#import <BRLMPrinterKit/BRPtouchPrinter.h>
+#import <BRLMPrinterKit/BRPtouchPrinterData.h>
+#import <BRLMPrinterKit/BRPtouchPrinterKit.h>
+#import <BRLMPrinterKit/BRPtouchPrintInfo.h>

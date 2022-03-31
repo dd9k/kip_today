@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>calendar</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" stroke="#016DDA">
+            <path d="M8,44 L44,44 L44,13 L8,13 L8,44 Z M12,35 L15,35 L12,35 Z M19,35 L39,35 L19,35 Z M12,29 L15,29 L12,29 Z M19,29 L39,29 L19,29 Z M35,13 L35,6 L35,13 Z M15,13 L15,6 L15,13 Z M8,20.5 L44,20.5 L8,20.5 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

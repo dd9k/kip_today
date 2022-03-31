@@ -1,0 +1,67 @@
+{
+    "messages": [],
+    "data": {
+        "status": true,
+        "type": "CUSTOM_FORM",
+        "customFormData": {
+            "bodyTemperature": 1,
+            "title": "{\"vi\":\"Khai Báo Y Tế\",\"en\":\"\"}",
+            "questions": [
+                {
+                    "question": "{\"vi\":\"Liệt kê những nước/tỉnh/thành phố đã di chuyển qua trong vòng 21 ngày?\",\"en\":\"In the past 21 days, which province / city / territory / country have you been to?\"}",
+                    "type": "4",
+                    "subType": "1",
+                    "answerOption": [],
+                    "isRequired": 1,
+                    "isHidden": 0,
+                    "sort": 0
+                },
+                {
+                    "question": "{\"vi\":\"Lịch sử tiếp xúc với bệnh nhân nhiễm Covid-19?\",\"en\":\"History of exposure: During the last 21 days, did you have contact with Covid-19 patient?\"}",
+                    "type": "1",
+                    "subType": "",
+                    "answerOption": [
+                        "{\"vi\":\"Có\",\"en\":\"Yes\"}",
+                        "{\"vi\":\"Không\",\"en\":\"No\"}"
+                    ],
+                    "isRequired": 1,
+                    "isHidden": 0,
+                    "sort": 1
+                },
+                {
+                    "question": "{\"vi\":\"Trong vòng 21 ngày, Anh/chị có triệu chứng bệnh: sốt, ho khan, khó thở?\",\"en\":\"If you have any of the followings symptoms at present or during the past 21 days ?\"}",
+                    "type": "2",
+                    "subType": "",
+                    "answerOption": [
+                        "{\"vi\":\"Sốt\",\"en\":\"Fever\"}",
+                        "{\"vi\":\"Khó thở\",\"en\":\"Difficulty of breathing\"}",
+                        "{\"vi\":\"Viêm họng\",\"en\":\"Sore throat\"}",
+                        "{\"vi\":\"Ho khan\",\"en\":\"Cough\"}",
+                        "{\"vi\":\"Không có triệu chứng nào\",\"en\":\"No symptoms\"}"
+                    ],
+                    "isRequired": 1,
+                    "isHidden": 0,
+                    "sort": 2
+                },
+                {
+                    "question": "{\"vi\":\"list\",\"en\":\"\"}",
+                    "type": "3",
+                    "subType": "",
+                    "answerOption": [
+                        "{\"vi\":\"1111\",\"en\":\"\"}",
+                        "{\"vi\":\"2222\",\"en\":\"\"}",
+                        "{\"vi\":\"3333\",\"en\":\"\"}"
+                    ],
+                    "isRequired": 0,
+                    "isHidden": 0,
+                    "sort": 3
+                }
+            ],
+            "surveyId": 2332
+        },
+        "embeddedLinkData": null
+    },
+    "success": true,
+    "strackTrace": null,
+    "totalCount": 0
+}
